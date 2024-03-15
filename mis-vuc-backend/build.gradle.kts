@@ -40,4 +40,5 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:dataframe:0.12.1")
     implementation("org.jetbrains.kotlinx:dataframe-excel:0.12.1")
+    implementation("io.ktor:ktor-serialization-gson:$ktor_version")
 }
